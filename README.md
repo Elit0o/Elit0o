@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elit0o
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#, html, css
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
  -> e-mail: eli8.2013@gmail.com
  -> Discord: Elit0o#1920
