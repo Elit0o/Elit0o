@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, html, css
 - 📫 How to reach me:
  -> e-mail: eli8.2013@gmail.com
- -> Discord: Elit0o#1920
+ -> Discord: Elito#1920
 
 <!---
 Elit0o/Elit0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
