@@ -34,12 +34,5 @@ I'm passionate about coding and building things that make a difference. I love e
 - 📧 Email: eli8.2013@gmail.com
 - 💼 LinkedIn: [Eli](https://www.linkedin.com/in/eli-k-350876260/)
 - 🐦 Twitter: [Eli](https://twitter.com/eli_t0o)
-- 💬 Discord: Elito#1920
+- 💬 Discord: elito1920
 ---
-
-
-
-<!---
-Elit0o/Elit0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
