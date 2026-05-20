@@ -32,7 +32,7 @@ I'm passionate about coding and building things that make a difference. I love e
 ## Contact Me
 
 - 📧 Email: eli8.2013@gmail.com
-- 💼 LinkedIn: [Eli](https://www.linkedin.com/in/eli-k-350876260/)
+- 💼 LinkedIn: [Eli](https://www.linkedin.com/in/elena-kerezieva)
 - 🐦 Twitter: [Eli](https://twitter.com/eli_t0o)
 - 💬 Discord: elito1920
 ---
